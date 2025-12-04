@@ -1,52 +1,12 @@
 {
   "//": "BR Item Shop Config",
-  "daily1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 800
-  },
-  "daily2": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 800
-  },
-  "daily3": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 300
-  },
-  "daily4": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 500
-  },
+  "daily1": { "itemGrants": ["AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"], "price": 800 },
+  "daily2": { "itemGrants": ["AthenaPickaxe:PID_003_Pickaxe"], "price": 800 },
+  "daily3": { "itemGrants": ["AthenaItemWrap:WID_001_Wrap"], "price": 300 },
+  "daily4": { "itemGrants": ["AthenaGlider:GID_001_Glider"], "price": 500 },
   "daily5": null,
-  "daily6": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 500
-  },
-  "featured1": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 2000
-  },
-  "featured2": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 1500
-  },
-  "featured3": {
-    "itemGrants": [
-      "AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"
-    ],
-    "price": 1200
-  }
+  "daily6": { "itemGrants": ["AthenaDance:EID_002_Emote"], "price": 500 },
+  "featured1": { "itemGrants": ["AthenaCharacter:CID_003_Character"], "price": 2000 },
+  "featured2": { "itemGrants": ["AthenaCharacter:CID_004_Character"], "price": 1500 },
+  "featured3": { "itemGrants": ["AthenaCharacter:CID_001_Character"], "price": 1200 }
 }
