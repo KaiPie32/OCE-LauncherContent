@@ -1,90 +1,52 @@
-[
-  {
-    "id": "cid_001_character",
-    "name": "Renegade Raider",
-    "type": "AthenaCharacter",
-    "rarity": "rare",
-    "seasonAdded": 1
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 800
   },
-  {
-    "id": "cid_002_character",
-    "name": "Black Knight",
-    "type": "AthenaCharacter",
-    "rarity": "legendary",
-    "seasonAdded": 2
+  "daily2": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 800
   },
-  {
-    "id": "cid_003_character",
-    "name": "Drift",
-    "type": "AthenaCharacter",
-    "rarity": "legendary",
-    "seasonAdded": 5
+  "daily3": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 300
   },
-  {
-    "id": "cid_004_character",
-    "name": "Peely",
-    "type": "AthenaCharacter",
-    "rarity": "epic",
-    "seasonAdded": 8
+  "daily4": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 500
   },
-
-  {
-    "id": "pid_001_pickaxe",
-    "name": "AC/DC",
-    "type": "AthenaPickaxe",
-    "rarity": "legendary",
-    "seasonAdded": 1
+  "daily5": null,
+  "daily6": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 500
   },
-  {
-    "id": "pid_002_pickaxe",
-    "name": "Candy Axe",
-    "type": "AthenaPickaxe",
-    "rarity": "epic",
-    "seasonAdded": 2
+  "featured1": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 2000
   },
-  {
-    "id": "pid_003_pickaxe",
-    "name": "Reaper",
-    "type": "AthenaPickaxe",
-    "rarity": "rare",
-    "seasonAdded": 1
+  "featured2": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 1500
   },
-
-  {
-    "id": "gid_001_glider",
-    "name": "Mako",
-    "type": "AthenaGlider",
-    "rarity": "uncommon",
-    "seasonAdded": 1
-  },
-  {
-    "id": "gid_002_glider",
-    "name": "Slipstream",
-    "type": "AthenaGlider",
-    "rarity": "rare",
-    "seasonAdded": 3
-  },
-
-  {
-    "id": "eid_001_emote",
-    "name": "Floss",
-    "type": "AthenaDance",
-    "rarity": "rare",
-    "seasonAdded": 2
-  },
-  {
-    "id": "eid_002_emote",
-    "name": "Orange Justice",
-    "type": "AthenaDance",
-    "rarity": "rare",
-    "seasonAdded": 4
-  },
-
-  {
-    "id": "wid_001_wrap",
-    "name": "Fryangles",
-    "type": "AthenaItemWrap",
-    "rarity": "uncommon",
-    "seasonAdded": 7
+  "featured3": {
+    "itemGrants": [
+      "CID_116_Athena_Commando_M_CarbideBlack"
+    ],
+    "price": 1200
   }
-]
+}
