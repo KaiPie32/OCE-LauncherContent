@@ -1,6 +1,6 @@
 {
   "//": "BR Item Shop Config",
-  "daily1": { "itemGrants": ["AthenaDance:EID_Hype"], "price": 500 },
+  "daily1": { "itemGrants": ["AthenaDance:EID_FancyWorkout"], "price": 500 },
   "daily2": null,
   "daily3": null,
   "daily4": null,
